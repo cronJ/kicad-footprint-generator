@@ -384,7 +384,6 @@ Infineon_LFBGA-292_17x17mm_Layout20x20_P0.8mm_Ball0.5mm_Pad0.35:
   body_size_y: 17.0
   pitch: 0.8
   pad_diameter: 0.35
-  mask_margin: 0.15
   layout_x: 20
   layout_y: 20
   row_skips: [
